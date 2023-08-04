@@ -1,2 +1,2 @@
 # clone-tabNews
-Projeto para treinar programação recriando o Tab News.
+Projeto para aplicar na prática os conhecimentos do curso do Filipe Deschamps recriando o Tab News.
